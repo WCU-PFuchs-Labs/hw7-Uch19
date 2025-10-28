@@ -7,8 +7,8 @@ import java.util.*;
  * Purpose: A Binary Tree class for Arithmetic evaluation
  */
 public class Node implements Cloneable  {
-    private Node left;
-    private Node right;
+    protected Node left;
+    protected Node right;
     private Op operation;
     protected int depth;
 
