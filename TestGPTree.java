@@ -1,4 +1,6 @@
 import java.util.*;
+import binary.*;
+
 
 public class TestGPTree {
     static int numIndepVars = 3;
